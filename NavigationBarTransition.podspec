@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NavigationBarTransition'
-  s.version          = '0.0.1-init'
+  s.version          = '0.0.1-beta1'
   s.summary          = 'A library that can make a elegant transition of the navigation bar.'
  
   s.description      = <<-DESC
