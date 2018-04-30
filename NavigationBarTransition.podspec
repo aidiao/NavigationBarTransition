@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NavigationBarTransition'
-  s.version          = 'v0.0.1-beta4'
+  s.version          = '0.0.1-beta4'
   s.summary          = 'A library that can make a elegant transition of the navigation bar.'
 
 # This description is used to generate tags and improve search results.
