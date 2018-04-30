@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NavigationBarTransition'
-  s.version          = '0.0.1-beta1'
+  s.version          = '0.0.1-beta2'
   s.summary          = 'A library that can make a elegant transition of the navigation bar.'
  
   s.description      = <<-DESC
@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/aidiao/NavigationBarTransition'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'aidiao' => '2506776631@qq.com' }
-  s.source           = { :git => 'https://github.com/aidiao/NavigationBarTransition.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/aidiao/NavigationBarTransition.git', :tag => s.version }
  
   s.ios.deployment_target = '9.0'
-  s.source_files = 'NavigationBarTransition/*'
+  s.source_files = 'NavigationBarTransition/Classes'
  
 end

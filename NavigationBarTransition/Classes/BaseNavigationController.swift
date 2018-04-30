@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  BaseNavigationController.swift
 //  NavigationBarTransition
 //
 //  Created by Diao on 2018/4/30.
@@ -8,11 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class BaseNavigationController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
 }
-
