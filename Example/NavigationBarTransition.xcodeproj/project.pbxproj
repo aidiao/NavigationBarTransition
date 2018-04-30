@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		496B0EA5ED9BF4C464E42F80 /* Pods_NavigationBarTransition_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF7687E8EF75A0D0F399433 /* Pods_NavigationBarTransition_Tests.framework */; };
+		0CBB5BEE44D29480611F940B /* Pods_NavigationBarTransition_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 588B186C8BF7BF78CDCA6F5A /* Pods_NavigationBarTransition_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
@@ -34,6 +34,7 @@
 		1C498722EECCAC15090E7D24 /* Pods-NavigationBarTransition_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationBarTransition_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationBarTransition_Tests/Pods-NavigationBarTransition_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3CFEC56D3E4710AFC28AFBB5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		48992B43FDFB714E73F8574E /* Pods-NavigationBarTransition_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationBarTransition_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationBarTransition_Example/Pods-NavigationBarTransition_Example.release.xcconfig"; sourceTree = "<group>"; };
+		588B186C8BF7BF78CDCA6F5A /* Pods_NavigationBarTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NavigationBarTransition_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* NavigationBarTransition_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationBarTransition_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +46,6 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		AA719F52553A512EBFD97103 /* Pods-NavigationBarTransition_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationBarTransition_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationBarTransition_Example/Pods-NavigationBarTransition_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		AFF7687E8EF75A0D0F399433 /* Pods_NavigationBarTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NavigationBarTransition_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF615F82FBA62016CB4B0ECD /* NavigationBarTransition.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NavigationBarTransition.podspec; path = ../NavigationBarTransition.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
@@ -62,7 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				496B0EA5ED9BF4C464E42F80 /* Pods_NavigationBarTransition_Tests.framework in Frameworks */,
+				0CBB5BEE44D29480611F940B /* Pods_NavigationBarTransition_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -73,7 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				1B4558A9FC33C73164AC305C /* Pods_NavigationBarTransition_Example.framework */,
-				AFF7687E8EF75A0D0F399433 /* Pods_NavigationBarTransition_Tests.framework */,
+				588B186C8BF7BF78CDCA6F5A /* Pods_NavigationBarTransition_Tests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

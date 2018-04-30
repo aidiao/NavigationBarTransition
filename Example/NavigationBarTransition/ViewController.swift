@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import NavigationBarTransition
 
 class ViewController: UIViewController {
 

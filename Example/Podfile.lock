@@ -1,16 +1,16 @@
 PODS:
-  - NavigationBarTransition (0.1.0)
+  - NavigationBarTransition (0.0.1-beta3)
 
 DEPENDENCIES:
-  - NavigationBarTransition (from `../`)
+  - NavigationBarTransition (from `../NavigationBarTransition.podspec`)
 
 EXTERNAL SOURCES:
   NavigationBarTransition:
-    :path: ../
+    :path: ../NavigationBarTransition.podspec
 
 SPEC CHECKSUMS:
-  NavigationBarTransition: 995171b3a4c00315f11c75fc922e031e14f00bdf
+  NavigationBarTransition: 62cfeec24dea911fb759bd493b9b024e8df37dfc
 
-PODFILE CHECKSUM: 424cdd27fc2256ce64d9f564bbc686529eeb6ddd
+PODFILE CHECKSUM: 7b7e4e0a0eae20bb69ef0d36bb351af2a078f5fc
 
 COCOAPODS: 1.4.0
