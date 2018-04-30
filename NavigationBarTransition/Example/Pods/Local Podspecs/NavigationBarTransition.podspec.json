@@ -1,0 +1,22 @@
+{
+  "name": "NavigationBarTransition",
+  "version": "0.1.0",
+  "summary": "A short description of NavigationBarTransition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huangjiandiao/NavigationBarTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangjiandiao": "huangjiandiao@chuangjia.me"
+  },
+  "source": {
+    "git": "https://github.com/huangjiandiao/NavigationBarTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NavigationBarTransition/Classes/**/*"
+}

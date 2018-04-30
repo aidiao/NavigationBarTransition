@@ -1,0 +1,16 @@
+PODS:
+  - NavigationBarTransition (0.1.0)
+
+DEPENDENCIES:
+  - NavigationBarTransition (from `../`)
+
+EXTERNAL SOURCES:
+  NavigationBarTransition:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NavigationBarTransition: 995171b3a4c00315f11c75fc922e031e14f00bdf
+
+PODFILE CHECKSUM: 424cdd27fc2256ce64d9f564bbc686529eeb6ddd
+
+COCOAPODS: 1.4.0
