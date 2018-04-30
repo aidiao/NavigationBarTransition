@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NavigationBarTransition'
-  s.version          = '0.0.1-beta3'
+  s.version          = 'v0.0.1-beta4'
   s.summary          = 'A library that can make a elegant transition of the navigation bar.'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ A library that can make a elegant transition of the navigation bar. Just test!
   #   'NavigationBarTransition' => ['NavigationBarTransition/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  # s.public_header_files = 'Pod/Classes/*'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
