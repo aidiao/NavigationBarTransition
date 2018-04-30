@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "NavigationBarTransition/Classes/**/*"
+  "source_files": "NavigationBarTransition/Classes/**/*",
+  "frameworks": "UIKit"
 }
